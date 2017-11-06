@@ -1,7 +1,7 @@
 # UnityEditorCustomize
 Unityの自作エディター拡張
 
-【ObjectReplaceWindow】  
+【ObjectReplaceWindow.cs】  
 〇基本機能  
 ・メニュー⇒ShortCutCommand/OpenObjectReplaceWindowか、Alt+2でウィンドウが開く  
 ・ヒエラルキ上の選択しているオブジェクト名を一括置換する  
